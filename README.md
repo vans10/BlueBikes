@@ -2,7 +2,7 @@
 
 This interactive Tableau dashboard explores key patterns in Boston’s Blue Bikes system, focusing on round-trip behavior, seasonal trends, and demographic insights. By analyzing trip duration, station-level usage, and temporal-demographic activity, this case study provides actionable recommendations for operational efficiency and user engagement.
 
- **Dashboard Link**:  
+ **Dashboard Link**:  https://public.tableau.com/app/profile/vanshika.gupta5390/viz/BlueBike_17498459431790/Dashboard1?publish=yes
  **Business Use Case**: Operational planning, marketing strategy, demographic outreach
 
 ---
@@ -21,7 +21,8 @@ This question integrates spatial, seasonal, and demographic factors—critical f
 
 ## 2.  Tableau Dashboard
 
-Insert image
+![Screenshot 2025-06-09 133224](https://github.com/user-attachments/assets/64dce780-ab57-4869-bd12-1856efb8d6d7)
+
 
 ### Key Features
 
